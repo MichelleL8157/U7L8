@@ -8,6 +8,7 @@ public class DoNow {
         }
         System.out.println("Expected: false, Result: " + hasDup(t1));
 
+
         int[][] t2 = {{1, 2, 3}, {1, 2, 4}};
         System.out.println("Test 2- Input: ");
         for (int[] row: t2) {
